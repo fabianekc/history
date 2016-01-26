@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Own Your History",
+    "description": "Own Your History"
+  },
+  "appDescription": {
+    "message": "OYD History Plugin",
+    "description": "keep your list of visited web sites"
+  }
+}
